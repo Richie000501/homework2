@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\richi\\Desktop\\HW2\\hw317\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAFCED01-6854-4642-A7EE-0BA865AAF7A9}|hw317\\hw317.vcxproj|C:\\Users\\richi\\Desktop\\HW2\\hw317\\hw317\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EAFCED01-6854-4642-A7EE-0BA865AAF7A9}|hw317\\hw317.vcxproj|solutionrelative:hw317\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\richi\\Desktop\\HW2\\hw317\\hw317\\main.cpp",
+              "RelativeDocumentMoniker": "hw317\\main.cpp",
+              "ToolTip": "C:\\Users\\richi\\Desktop\\HW2\\hw317\\hw317\\main.cpp",
+              "RelativeToolTip": "hw317\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-19T03:38:51.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
